@@ -20,8 +20,9 @@ timezone: Asia/Tehran
 
 title: Its Hessam
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+# tagline: A text-focused Jekyll theme # it will display as the sub-title
 # tagline: Mobile Developing Insights: Journey into iOS and Sometime Android # it will display as the sub-title
+tagline: I explore mobile development, sharing experiences, overcoming challenges, and discovering new technologies and features. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   I explore mobile development, sharing experiences, overcoming challenges, and discovering new technologies and features.
