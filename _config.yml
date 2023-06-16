@@ -15,6 +15,9 @@ lang: en
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Tehran
 
+# for add comment to each post
+issues_repo: helloItsHEssam/helloItsHEssam.github.io
+
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
